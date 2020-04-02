@@ -1,0 +1,12 @@
+{"timestamp":"2020-01-20T09:00:00","power.ac":"890083.733","voltage.ac.ab":"604.738667","current.ac":"857.084378"}
+{"timestamp":"2020-01-20T09:15:00","power.ac":"985881.533","voltage.ac.ab":"604.9938","current.ac":"949.599422"}
+{"timestamp":"2020-01-20T09:30:00","power.ac":"1079118.93","voltage.ac.ab":"605.0138","current.ac":"1039.53893"}
+{"timestamp":"2020-01-20T09:45:00","power.ac":"1173847.33","voltage.ac.ab":"604.0386","current.ac":"1130.60718"}
+{"timestamp":"2020-01-20T10:00:00","power.ac":"1260267.67","voltage.ac.ab":"606.0834","current.ac":"1211.75211"}
+{"timestamp":"2020-01-20T10:15:00","power.ac":"1335955.67","voltage.ac.ab":"604.6752","current.ac":"1286.67258"}
+{"timestamp":"2020-01-20T10:30:00","power.ac":"1393353.2","voltage.ac.ab":"604.589733","current.ac":"1342.1388"}
+{"timestamp":"2020-01-20T10:45:00","power.ac":"1412581.53","voltage.ac.ab":"606.260333","current.ac":"1354.62538"}
+{"timestamp":"2020-01-20T11:00:00","power.ac":"1483242.33","voltage.ac.ab":"606.7202","current.ac":"1422.17129"}
+{"timestamp":"2020-01-20T11:15:00","power.ac":"1407966.8","voltage.ac.ab":"608.241467","current.ac":"1348.06262"}
+{"timestamp":"2020-01-20T11:30:00","power.ac":"1446273.53","voltage.ac.ab":"612.4508","current.ac":"1372.67409"}
+{"timestamp":"2020-01-20T11:45:00","power.ac":"1103368.93","voltage.ac.ab":"615.148533","current.ac":"1041.55818"}
